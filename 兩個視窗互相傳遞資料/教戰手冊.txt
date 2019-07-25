@@ -1,0 +1,2 @@
+1. 兩個視窗戶互相傳遞資料
+<reference>: https://code.msdn.microsoft.com/windowsapps/CppSendWMCOPYDATA-f75bc681/sourcecode?fileId=21580&pathId=1085501
